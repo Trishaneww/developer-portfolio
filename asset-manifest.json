@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/developer-portfolio/static/css/main.f07a7ede.css",
+    "main.js": "/developer-portfolio/static/js/main.674e3fc3.js",
+    "static/media/teagram.png": "/developer-portfolio/static/media/teagram.2d3709b16a7da96727bf.png",
+    "static/media/digital-wealth-ss.png": "/developer-portfolio/static/media/digital-wealth-ss.f3c5a905837a56680a10.png",
+    "static/media/react-logo.png": "/developer-portfolio/static/media/react-logo.81ed438b18e24116794d.png",
+    "static/media/FullStackResume.pdf": "/developer-portfolio/static/media/FullStackResume.72adb5aaf6eb87532013.pdf",
+    "static/media/resume-preview.png": "/developer-portfolio/static/media/resume-preview.8cb011b79b04491f4c6b.png",
+    "static/media/weatherwizard.png": "/developer-portfolio/static/media/weatherwizard.8e3be9d6f2e2d71c3ae0.png",
+    "static/media/t-logo.png": "/developer-portfolio/static/media/t-logo.caaff781be60f26324da.png",
+    "static/media/mongo-logo.png": "/developer-portfolio/static/media/mongo-logo.3a364684503a40b5fbb2.png",
+    "static/media/notewizard.png": "/developer-portfolio/static/media/notewizard.02d5f6310d769a2893f0.png",
+    "static/media/css.png": "/developer-portfolio/static/media/css.cd13bf0a8423210549cb.png",
+    "static/media/node-logo.png": "/developer-portfolio/static/media/node-logo.c2e22c634a7336cbe298.png",
+    "static/media/texteditor.png": "/developer-portfolio/static/media/texteditor.14acce3ad5839f53d2fd.png",
+    "static/media/javascript-logo.png": "/developer-portfolio/static/media/javascript-logo.747787dca203fae2cd83.png",
+    "index.html": "/developer-portfolio/index.html",
+    "main.f07a7ede.css.map": "/developer-portfolio/static/css/main.f07a7ede.css.map",
+    "main.674e3fc3.js.map": "/developer-portfolio/static/js/main.674e3fc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f07a7ede.css",
+    "static/js/main.674e3fc3.js"
+  ]
+}
